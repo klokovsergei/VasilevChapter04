@@ -1,0 +1,15 @@
+/Users/sergejklokov/Documents/c_sharp/Vasilevs_book/Chapter_04/Task01/bin/Debug/net7.0/Task01
+/Users/sergejklokov/Documents/c_sharp/Vasilevs_book/Chapter_04/Task01/bin/Debug/net7.0/Task01.deps.json
+/Users/sergejklokov/Documents/c_sharp/Vasilevs_book/Chapter_04/Task01/bin/Debug/net7.0/Task01.runtimeconfig.json
+/Users/sergejklokov/Documents/c_sharp/Vasilevs_book/Chapter_04/Task01/bin/Debug/net7.0/Task01.dll
+/Users/sergejklokov/Documents/c_sharp/Vasilevs_book/Chapter_04/Task01/bin/Debug/net7.0/Task01.pdb
+/Users/sergejklokov/Documents/c_sharp/Vasilevs_book/Chapter_04/Task01/obj/Debug/net7.0/Task01.csproj.AssemblyReference.cache
+/Users/sergejklokov/Documents/c_sharp/Vasilevs_book/Chapter_04/Task01/obj/Debug/net7.0/Task01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergejklokov/Documents/c_sharp/Vasilevs_book/Chapter_04/Task01/obj/Debug/net7.0/Task01.AssemblyInfoInputs.cache
+/Users/sergejklokov/Documents/c_sharp/Vasilevs_book/Chapter_04/Task01/obj/Debug/net7.0/Task01.AssemblyInfo.cs
+/Users/sergejklokov/Documents/c_sharp/Vasilevs_book/Chapter_04/Task01/obj/Debug/net7.0/Task01.csproj.CoreCompileInputs.cache
+/Users/sergejklokov/Documents/c_sharp/Vasilevs_book/Chapter_04/Task01/obj/Debug/net7.0/Task01.dll
+/Users/sergejklokov/Documents/c_sharp/Vasilevs_book/Chapter_04/Task01/obj/Debug/net7.0/refint/Task01.dll
+/Users/sergejklokov/Documents/c_sharp/Vasilevs_book/Chapter_04/Task01/obj/Debug/net7.0/Task01.pdb
+/Users/sergejklokov/Documents/c_sharp/Vasilevs_book/Chapter_04/Task01/obj/Debug/net7.0/Task01.genruntimeconfig.cache
+/Users/sergejklokov/Documents/c_sharp/Vasilevs_book/Chapter_04/Task01/obj/Debug/net7.0/ref/Task01.dll
