@@ -41,3 +41,21 @@ int delCol = random.Next(0, array.GetLength(1));
 Console.WriteLine("Будут удалены строка - {0} и колонка - {1}.", delRow, delCol);
 
 //удаление строки и столбца выбранных случайным образом
+
+//новый массив -1 строка - столбец
+int[,] newArray = new int[array.GetLength(0) - 1, array.GetLength(1) - 1];
+
+for (int i = 0, k = 0; i < array.GetLength(0); i++)
+{
+    if (i == delRow - 1) continue;
+
+    for (int j = 0, s = 0; j < array.GetLength(1); j++)
+    {
+        if (j == delCol - 1) continue;
+        newArray[k,s] = array[i,j];
+        s++;
+    }
+    k++;
+}
+
+ShowArr(newArray);
