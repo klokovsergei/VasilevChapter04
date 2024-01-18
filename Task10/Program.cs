@@ -28,8 +28,7 @@ ShowArr(array);
 
 //заполняем массив змейкой
 int number = 0;
-bool reverseRow = false;
-bool reverseCol = false;
+bool reverse = false;
 int i = 0, j = 0;
 while (sizeArrRow > 0 || sizeArrCol > 0)
 {
@@ -37,11 +36,11 @@ while (sizeArrRow > 0 || sizeArrCol > 0)
     {
         array[i,j] = number;
         number++;
-        if (reverseCol) j--;
+        if (reverse) j--;
         else j++;
     }
     sizeArrRow--;
-    if (reverseCol) 
+    if (reverse) 
     {
         i--;
         j++;
@@ -56,11 +55,11 @@ while (sizeArrRow > 0 || sizeArrCol > 0)
     {
         array[i,j] = number;
         number++;
-        if (reverseRow) i--;
+        if (reverse) i--;
         else i++;
     }
-    reverseRow = !reverseRow;
-    if (reverseRow) 
+    reverse = !reverse;
+    if (reverse) 
     {
         i--;
         j--;
@@ -71,8 +70,6 @@ while (sizeArrRow > 0 || sizeArrCol > 0)
         j++;
     }
     sizeArrCol--;
-    reverseCol = !reverseCol;
-    s++;
 }
 
 ShowArr(array);
